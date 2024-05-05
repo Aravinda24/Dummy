@@ -1,4 +1,13 @@
 This is a change which I did today.
 
+
+create a new branch and do some changes to the file.
+
+I am changing everything to make merge conflict.
+
+
+
+
 I am changing this to create a merge conflict.
 Also I am learning to do it again and again to make the process familiar.
+
