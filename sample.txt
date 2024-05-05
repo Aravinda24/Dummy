@@ -1,4 +1,4 @@
 This is a change which I did today.
 
-This is a right second commit.
+I am changing this to create a merge conflict.
 Also I am learning to do it again and again to make the process familiar.
