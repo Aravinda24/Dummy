@@ -2,5 +2,7 @@ This is a dummy project
 
 create a new branch and do some changes to the file.
 
+I am changing everything to make merge conflict.
+
 
 
