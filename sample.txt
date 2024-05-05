@@ -1,10 +1,4 @@
-This is a dummy project
+This is a change which I did today.
 
-create a new branch and do some changes to the file.
-
-the main is changed.
-
-Few other changes by other developer.
-This is my first change.
-
-This is my Second Change.
+This is a right second commit.
+Also I am learning to do it again and again to make the process familiar.
